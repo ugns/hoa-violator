@@ -1,0 +1,28 @@
+{
+  "name": "hoa-violator",
+  "version": "0.0.0",
+  "description": "HOA Violation Image processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UGNS/hoa-violator.git"
+  },
+  "keywords": [
+    "hoa"
+  ],
+  "author": "Jeremy T. Bouse <Jeremy.Bouse@UnderGrid.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UGNS/hoa-violator/issues"
+  },
+  "homepage": "https://github.com/UGNS/hoa-violator#readme",
+  "devDependencies": {
+    "aws-sdk-on-lambda": "^2.7.10"
+  },
+  "dependencies": {
+    "exif-reader": "^1.0.2"
+  }
+}
